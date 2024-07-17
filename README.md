@@ -5,7 +5,7 @@ This repo houses a 3D graphics renderer I've built, inspired by Masters-level gr
 Key features:
 - Custom model loading (MD2 format)
 - Full 3D transformation pipeline
-- Back-face culling for efficiency
+- Back-face culling
 - Painter's algorithm for depth sorting
 - Lighting models: ambient, directional, and point lights
 - Flat shading implementation
