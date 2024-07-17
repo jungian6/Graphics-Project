@@ -1,6 +1,6 @@
 # 3D Graphics Renderer
 
-This repo houses a 3D graphics renderer I've built, inspired by Masters-level graphics programming. It's not for an actual degree - just me geeking out on my own time.
+This repo houses a 3D graphics renderer I've built, inspired by Masters-level graphics programming.
 
 Key features:
 - Custom model loading (MD2 format)
