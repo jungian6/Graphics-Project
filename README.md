@@ -10,5 +10,8 @@ Key features:
 - Lighting models: ambient, directional, and point lights
 - Flat shading implementation
 
-https://github.com/user-attachments/assets/ded10eee-2579-43be-a38c-af1f1a3c4838
+
+
+
+https://github.com/user-attachments/assets/b6d39cf1-9b66-49eb-a4d2-07abfcacb245
 
